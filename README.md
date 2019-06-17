@@ -63,4 +63,14 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(12).pdf" style="text-decoration:none;">The Immortal Life of Henrietta Lacks</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(13).pdf" style="text-decoration:none;">TRILOBITE!: Eyewitness to Evolution</a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(14).pdf" style="text-decoration:none;">Finger Prints </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(15).pdf" style="text-decoration:none;">Brother Astronomer: Adventures of a Vatican Scientist</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(16).pdf" style="text-decoration:none;">The Flying Circus of Physics (With answers)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(17).pdf" style="text-decoration:none;">The Invisible Gorilla: How Our Intuitions Deceive Us</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(18).rar" style="text-decoration:none;">The Freud Reader</a></b></li>
+
+
 </ul>
