@@ -2,7 +2,7 @@
 <p><a href="https://en.wikipedia.org/wiki/Smallpox" target="_blank" rel="nofollow noopener">Smallpox</a>&nbsp;(an acute contagious disease caused by the&nbsp;<strong>variola&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Virus" target="_blank" rel="nofollow noopener"><strong>virus</strong></a>, a member of the&nbsp;<a href="https://en.wikipedia.org/wiki/Orthopoxvirus" target="_blank" rel="nofollow noopener"><strong>orthopoxvirus</strong></a>&nbsp;family) was a leading cause of death in 18th century, and the inexorable spread of the disease reliably recorded the death rate of some hundred thousand people. And the death toll surpassed 5000 people a day. Yet&nbsp;<a href="https://en.wikipedia.org/wiki/Edward_Jenner" target="_blank" rel="nofollow noopener">Edward Jenner</a>, an English&nbsp;<a href="https://en.wikipedia.org/wiki/Physician" target="_blank" rel="nofollow noopener"><strong>physician</strong></a>, noticed something special occurring in his small&nbsp;<a href="https://en.wikipedia.org/wiki/Village" target="_blank" rel="nofollow noopener">village</a>. People who were exposed to cowpox did not get smallpox when they were exposed to the disease. Concluding that cowpox could save people from smallpox, Edward purposely infected a young boy who lived in his village first with&nbsp;<a href="https://en.wikipedia.org/wiki/Cowpox" target="_blank" rel="nofollow noopener">cowpox</a>, then with smallpox. Fortunately, Edward's hypothesis worked well. He had successfully demonstrated the world's first vaccine and eradicated the disease. And&nbsp;<a href="https://en.wikipedia.org/wiki/Vaccine" target="_blank" rel="nofollow noopener">vaccine</a>s which once saved humanity from the smallpox (which was a leading cause of death in&nbsp;<a href="https://en.wikipedia.org/wiki/England" target="_blank" rel="nofollow noopener">England</a>), now have associated with the outbreaks of diseases like&nbsp;<strong>pertussis&nbsp;</strong>(<a href="https://en.wikipedia.org/wiki/Whooping_cough" target="_blank" rel="nofollow noopener"><strong>whooping cough</strong></a>) which have begun showing up in the&nbsp;<a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="nofollow noopener">United States</a>&nbsp;in the past forty years.</p>
 </br>
 <p><strong>TOP 5 DRUGS WITH REPORTED SIDE EFFECTS (Withdrawn from market in September 2004)</strong></p>
-<p>_________________________________________________________________________________________________________________________________</p>
+<hr>
 <p><strong>Drug:</strong>&nbsp;Byetta</p>
 <p><strong>Used for:</strong>&nbsp;Type 2 diabetes</p>
 <p><strong>Side effect:</strong>&nbsp;Increase of blood glucose level</p>
@@ -40,7 +40,7 @@
 <p><strong>The Best Science Books | 18 Books Expert Recommendations</strong></p>
 
 
-<p>_________________________________________________________________________________________________________________________________</p>
+<hr>
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Hall-of-Shame-How-Bad-Science-can-cause-Real-Harm-in-Real-Life/blob/master/sci(1).pdf" style="text-decoration:none;">LONGITUDE: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time </a></b></li>
   
